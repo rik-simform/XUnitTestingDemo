@@ -1,0 +1,14 @@
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\bin\Debug\netcoreapp3.1\XUnitConsole.exe
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\bin\Debug\netcoreapp3.1\XUnitConsole.deps.json
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\bin\Debug\netcoreapp3.1\XUnitConsole.runtimeconfig.json
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\bin\Debug\netcoreapp3.1\XUnitConsole.runtimeconfig.dev.json
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\bin\Debug\netcoreapp3.1\XUnitConsole.dll
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\bin\Debug\netcoreapp3.1\XUnitConsole.pdb
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\obj\Debug\netcoreapp3.1\XUnitConsole.csproj.AssemblyReference.cache
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\obj\Debug\netcoreapp3.1\XUnitConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\obj\Debug\netcoreapp3.1\XUnitConsole.AssemblyInfoInputs.cache
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\obj\Debug\netcoreapp3.1\XUnitConsole.AssemblyInfo.cs
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\obj\Debug\netcoreapp3.1\XUnitConsole.csproj.CoreCompileInputs.cache
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\obj\Debug\netcoreapp3.1\XUnitConsole.dll
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\obj\Debug\netcoreapp3.1\XUnitConsole.pdb
+C:\Users\rikesh\source\repos\XUnitFinal\XUnitConsole\obj\Debug\netcoreapp3.1\XUnitConsole.genruntimeconfig.cache
